@@ -1,6 +1,10 @@
+
+
+
 ## Configuration
 
-When developing, you can place these in a [`.env`][dotenv] file on
+When developing, you can place these in a [`.env`]
+[dotenv] file on
 disk in this directory.
 
 In production, these should be set according to your deployment method
